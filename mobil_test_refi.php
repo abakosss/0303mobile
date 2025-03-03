@@ -1,5 +1,5 @@
 <?php
-require_once('mobile.php')
+require_once('mobile.php');
 
 
 function testGetAllMobileUsingReflection()
